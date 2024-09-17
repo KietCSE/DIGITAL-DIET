@@ -1,3 +1,13 @@
+## Build project
+```sh
+npm run build
+```
+
+## Run project 
+```sh
+npm run dev
+```
+
 ## Project structure
 
 ```py
